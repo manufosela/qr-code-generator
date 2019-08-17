@@ -1,12 +1,12 @@
 {
-  "name": "qr-code-generator",
-  "version": "1.0.0",
-  "description": "",
+  "name": "@manufosela/qr-code-generator",
+  "version": "1.0.1",
+  "description": "qr code generatori based in qrcode-generator by Kazuhiko Arase. Refactor to ES6 classes",
   "main": "qr-code-generator.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
+  "keywords": ["qrcode"],
   "author": "@manufosela",
   "license": "Apache-2.0"
 }
