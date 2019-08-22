@@ -1,6 +1,7 @@
 # QRCode Generator
 
-QRCodeGenerator ES6 class.
+Qrcode generator based in qrcode-generator by Kazuhiko Arase. Refactored to ES6 classes.
+Main class QRCodeGenerator.
 
 ## Use
 ```javascript
